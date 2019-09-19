@@ -90,4 +90,4 @@ const barney = new Student({
 
 
 
-console.log(fred.favLanguage);
+console.log(fred.speak());
